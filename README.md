@@ -4,6 +4,8 @@ This project is initially bulit on HMDB51 dataset.
 
 The current version is based on Kinectics.
 
+[My test video] (https://drive.google.com/open?id=1YbJorZzqSbk20-z8mdWcmmnZMtTwLjmT)
+
 **How to use**
 
 1.Please put the test video under ./videos and update the video name in input file.
