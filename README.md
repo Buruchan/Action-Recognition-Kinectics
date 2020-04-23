@@ -14,4 +14,4 @@ The current version is based on Kinectics.
 
 2.Run the main.py and output result are in output.json
 
-This project is based on the work of [3D ResNet](https://github.com/kenshohara/video-classification-3d-cnn-pytorch)
+This project is based on the work of Kensho Hara, Hirokatsu Kataoka and Yutaka Satoh. The main purpose of the work is to build 3D residual networks for action recognition.[3D ResNet](https://github.com/kenshohara/video-classification-3d-cnn-pytorch)
